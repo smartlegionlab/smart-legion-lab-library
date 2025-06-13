@@ -1,15 +1,4 @@
-# Smart Legion Lab Library
-
----
-
-    # --------------------------------------------------------
-    # Licensed under the terms of the BSD 3-Clause License
-    # (see LICENSE for details).
-    # Copyright © 2025, A.A Suvorov
-    # All rights reserved.
-    # --------------------------------------------------------
-    # https://github.com/smartlegionlab/
-    # --------------------------------------------------------
+# Smart Legion Lab Library <sup>v1.0.1</sup>
 
 ---
 
