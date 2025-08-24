@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "smart-legion-lab-library"
-version = "1.0.1"
+version = "1.0.2"
 description = "Smart Legion Lab Library"
 authors = [{ name = "A.A. Suvorov", email = "smartlegiondev@gmail.com" }]
 readme = "README.md"
@@ -23,8 +23,5 @@ dependencies = [
 Homepage = "https://github.com/smartlegionlab/smart-legion-lab-library"
 Documentation = "https://github.com/smartlegionlab/smart-legion-lab-library#readme"
 
-[tool.setuptools.dynamic]
-version = { attr = "smart_legion_lab_library.__version__" }
-
 [tool.setuptools.packages.find]
-where = ["smart_legion_lab_library"]
+where = ["."]

@@ -1,4 +1,4 @@
-# Smart Legion Lab Library <sup>v1.0.1</sup>
+# Smart Legion Lab Library <sup>v1.0.2</sup>
 
 ---
 
